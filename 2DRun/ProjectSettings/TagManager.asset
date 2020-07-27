@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - floor
+  - Coin
+  - OBJ
+  - "\u969C\u7919\u7269"
   layers:
   - Default
   - TransparentFX
